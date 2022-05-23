@@ -4,7 +4,9 @@
 
 ##### Preparing standardized reading and math test data for analysis, reporting and presentation on performance trends and patterns in reference to student funding.  After my first analysis of the school data, I was informed that there had been academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders. After removing the test scores of Thomas High School ninth graders, I repeated the analysis and noted changes in the overall analysis. 
 
-### ![alt text]()
+##### I used the loc method to select all the reading and math scores from the ninth graders at Thomas High School and removed their scores from the data. 
+![alt text](locmethod.PNG)
+
 ---
 
 ### Results:
