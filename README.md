@@ -11,11 +11,11 @@
 
 ### Results:
 
-##### There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
+##### The change in th data did not change anything for the other district schools. 
 ##### The average math score for each grade level from each school. 
 ![alt text](Averagemath.PNG)
 
-The average reading score for each grade level from each school
+#The average reading score for each grade level from each school
 ![alt text](averagereading.PNG)
 
 ##### The top 5 and bottom 5 performing schools, based on the overall passing rate. 
@@ -27,5 +27,3 @@ The average reading score for each grade level from each school
 ### Summary:
 ##### The scores by school spending per student, by school size, and by school type
 ![alt text](summary.PNG)
-
-##### There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
