@@ -15,7 +15,7 @@
 ##### The average math score for each grade level from each school. 
 ![alt text](Averagemath.PNG)
 
-# The average reading score for each grade level from each school
+##### The average reading score for each grade level from each school
 ![alt text](averagereading.PNG)
 
 ##### The top 5 and bottom 5 performing schools, based on the overall passing rate. 
